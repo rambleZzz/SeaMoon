@@ -5,7 +5,7 @@ name: SeaMoon-Server
 access: "default" # 默认使用 `s config add` 添加密钥时，accessID的默认值
 
 vars:
-  region: cn-hongkong # 部署区域，请看docs/DEPLOY.md
+  region: cn-beijing # 部署区域，请看docs/DEPLOY.md
   service:
     name: SeaMoon-Service
     description: "SeaMoon Service"
